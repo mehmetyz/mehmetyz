@@ -38,12 +38,10 @@ I am a long-life learner person. I have been improving myself on programming, pr
 <img src="https://raw.githubusercontent.com/mehmetyz/mehmetyz/main/icons/bootstrap.svg"  height="48" style="margin-top: 8px; margin-left: 4px"/>
 <img src="https://raw.githubusercontent.com/mehmetyz/mehmetyz/main/icons/jquery.svg"  height="48" style="margin-top: 8px; margin-left: 4px"/>
 <img src="https://raw.githubusercontent.com/mehmetyz/mehmetyz/main/icons/html.svg"  height="48" style="margin-top: 8px; margin-left: 4px"/>
-</span>
 <img src="https://raw.githubusercontent.com/mehmetyz/mehmetyz/main/icons/css.svg"  height="48" style="margin-top: 8px; margin-left: 4px"/>
 <img src="https://raw.githubusercontent.com/mehmetyz/mehmetyz/main/icons/wpf.png"  height="48" style="margin-top: 8px; margin-left: 4px"/>
 <img src="https://raw.githubusercontent.com/mehmetyz/mehmetyz/main/icons/nodejs.svg"  height="48" style="margin-top: 8px; margin-left: 4px"/>
 <img src="https://raw.githubusercontent.com/mehmetyz/mehmetyz/main/icons/dot-net.png"  height="48" style="margin-top: 8px; margin-left: 4px"/>
-
 </span>
 
 ### <b style='color:#189AB4'>General Tools</b>
@@ -52,9 +50,7 @@ I am a long-life learner person. I have been improving myself on programming, pr
 <img src="https://raw.githubusercontent.com/mehmetyz/mehmetyz/main/icons/linux.svg"  height="48" style="margin-top: 8px; margin-left: 4px"/>
 <img src="https://raw.githubusercontent.com/mehmetyz/mehmetyz/main/icons/intellij.svg"  height="48" style="margin-top: 8px; margin-left: 4px"/>
 <img src="https://raw.githubusercontent.com/mehmetyz/mehmetyz/main/icons/visual-studio.svg"  height="48" style="margin-top: 8px; margin-left: 4px"/>
-</span>
 <img src="https://raw.githubusercontent.com/mehmetyz/mehmetyz/main/icons/visual-studio-code.svg"  height="48" style="margin-top: 8px; margin-left: 4px"/>
-
 </span>
 
 ---
