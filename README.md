@@ -24,7 +24,7 @@ I am a long-life learner person. I have been improving myself on programming, pr
 
 ### <b style='color:#189AB4'>Programming Languages</b> 
 <span>
-<img src="https://raw.githubusercontent.com/mehmetyz/mehmetyz/main/icons/csharp.svg" style="width:48px; height:48px; margin-top: 8px; margin-left: 4px"/>
+<img src="https://raw.githubusercontent.com/mehmetyz/mehmetyz/main/icons/csharp.svg" height="30" style="margin-top: 8px; margin-left: 4px"/>
 <img src="https://raw.githubusercontent.com/mehmetyz/mehmetyz/main/icons/java.svg" style="width:48px; height:48px; margin-top: 8px; margin-left: 4px"/>
 <img src="https://raw.githubusercontent.com/mehmetyz/mehmetyz/main/icons/python.svg" style="width:48px; height:48px; margin-top: 8px; margin-left: 4px"/>
 <img src="https://raw.githubusercontent.com/mehmetyz/mehmetyz/main/icons/javascript.svg" style="width:48px; height:48px; margin-top: 8px; margin-left: 4px"/>
