@@ -4,7 +4,7 @@
 <p align='center'>
 <a href="https://hackerrank.com/mehmetyz"><img height="30" src="https://raw.githubusercontent.com/mehmetyz/mehmetyz/main/icons/hackerrank.jpg"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/mehmetyz/"><img height="30" src="https://raw.githubusercontent.com/mehmetyz/mehmetyz/main/icons/linkedin.svg"></a> &nbsp;
-<a href="github.com/mehmetyz"><img height="30" src="https://raw.githubusercontent.com/mehmetyz/mehmetyz/main/icons/website.svg"></a>
+<a href="https://github.com/mehmetyz"><img height="30" src="https://raw.githubusercontent.com/mehmetyz/mehmetyz/main/icons/website.svg"></a>
 
 </p>
 
