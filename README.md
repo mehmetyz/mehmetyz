@@ -2,9 +2,9 @@
 # ![waylon walker header](https://raw.githubusercontent.com/mehmetyz/mehmetyz/main/banner.gif)
 
 <p align='center'>
-<a href="https://hackerrank.com/mehmetyz"><img style="height:30; width:30" src="https://raw.githubusercontent.com/mehmetyz/mehmetyz/main/icons/hackerrank.jpg"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/waylonwalker/"><img style="height:30; width:30" src="https://raw.githubusercontent.com/mehmetyz/mehmetyz/main/icons/linkedin.svg"></a> &nbsp;
-<a href="https://twitter.com/_waylonwalker"><img style="height:30; width:30" src="https://raw.githubusercontent.com/mehmetyz/mehmetyz/main/icons/website.svg"></a>
+<a href="https://hackerrank.com/mehmetyz"><img height="30" src="https://raw.githubusercontent.com/mehmetyz/mehmetyz/main/icons/hackerrank.jpg"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/waylonwalker/"><img height="30" src="https://raw.githubusercontent.com/mehmetyz/mehmetyz/main/icons/linkedin.svg"></a> &nbsp;
+<a href="https://twitter.com/_waylonwalker"><img height="30" src="https://raw.githubusercontent.com/mehmetyz/mehmetyz/main/icons/website.svg"></a>
 
 </p>
 
@@ -41,7 +41,6 @@ I am a long-life learner person. I have been improving myself on programming, pr
 </span>
 <img src="https://raw.githubusercontent.com/mehmetyz/mehmetyz/main/icons/css.svg"  height="48" style="margin-top: 8px; margin-left: 4px"/>
 <img src="https://raw.githubusercontent.com/mehmetyz/mehmetyz/main/icons/wpf.png"  height="48" style="margin-top: 8px; margin-left: 4px"/>
-
 <img src="https://raw.githubusercontent.com/mehmetyz/mehmetyz/main/icons/nodejs.svg"  height="48" style="margin-top: 8px; margin-left: 4px"/>
 <img src="https://raw.githubusercontent.com/mehmetyz/mehmetyz/main/icons/dot-net.png"  height="48" style="margin-top: 8px; margin-left: 4px"/>
 
@@ -51,7 +50,6 @@ I am a long-life learner person. I have been improving myself on programming, pr
 <span >
 <img src="https://raw.githubusercontent.com/mehmetyz/mehmetyz/main/icons/windows.svg"  height="48" style="margin-top: 8px; margin-left: 4px"/>
 <img src="https://raw.githubusercontent.com/mehmetyz/mehmetyz/main/icons/linux.svg"  height="48" style="margin-top: 8px; margin-left: 4px"/>
-
 <img src="https://raw.githubusercontent.com/mehmetyz/mehmetyz/main/icons/intellij.svg"  height="48" style="margin-top: 8px; margin-left: 4px"/>
 <img src="https://raw.githubusercontent.com/mehmetyz/mehmetyz/main/icons/visual-studio.svg"  height="48" style="margin-top: 8px; margin-left: 4px"/>
 </span>
