@@ -7,11 +7,7 @@
 <a href="https://github.com/mehmetyz"><img height="30" src="https://raw.githubusercontent.com/mehmetyz/mehmetyz/main/icons/website.svg"></a>
 
 </p>
-
 <div align="center">
-
-</br>
-
 ## <b style='color:#189AB4'>Software Developer</b></h2>
 </div>
 
