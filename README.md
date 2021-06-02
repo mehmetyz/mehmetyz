@@ -1,5 +1,5 @@
 
-# ![waylon walker header](https://raw.githubusercontent.com/mehmetyz/mehmetyz/main/.gif)
+# ![header](https://raw.githubusercontent.com/mehmetyz/mehmetyz/main/banner.gif)
 
 <p align='center'>
 <a href="https://hackerrank.com/mehmetyz"><img height="30" src="https://raw.githubusercontent.com/mehmetyz/mehmetyz/main/icons/hackerrank.jpg"></a>&nbsp;&nbsp;
