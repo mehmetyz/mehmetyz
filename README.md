@@ -15,7 +15,7 @@
 
 Hey there 👋,
 
-I am a long-life learner person. I have been improving myself on programming, problem-solving, and software development in limited opportunities since I was 13 years old. Now, I study at [Hacettepe University, Department of Computer Science](https://cs.hacettepe.edu.tr/) to be a computer scientist. In addition, I am working as a Software Engineering Intern at [Bizero Robotics](https://bizero.com.tr/). I love playing computer games, listening electro-music and biking.
+I am a long-life learner person. I have been improving myself on programming, problem-solving, and software development in limited opportunities since I was 13 years old. Now, I study at [Hacettepe University, Department of Computer Science](https://cs.hacettepe.edu.tr/) to be a computer scientist. In addition, I am working as a Frontend Development Intern at [Thundra.io](https://www.thundra.io/). I love playing computer games, listening electro-music and biking.
 
 ---
 
