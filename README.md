@@ -15,7 +15,7 @@
 
 Hey there 👋,
 
-I am a long-life learner person. I have been improving myself on programming, problem-solving, and software development in limited opportunities since I was 13 years old. Now, I study at [Hacettepe University, Department of Computer Science](https://cs.hacettepe.edu.tr/) to be a computer scientist. In addition, I am working as a Frontend Development Intern at [Thundra.io](https://www.thundra.io/). I love playing computer games, listening electro-music and biking.
+I am a long-life learner person. I have been improving myself on programming, problem-solving, and software development in limited opportunities since I was 13 years old. Now, I study at [Hacettepe University, Department of Computer Science](https://cs.hacettepe.edu.tr/) to be a computer scientist. In addition, I am working as a Software Engineer at [Thundra.io](https://www.thundra.io/). I love playing computer games, listening electro-music and biking.
 
 <a href="https://github.com/mehmetyz/github-readme-stats">
   <img height="156" align="center" src="https://github-readme-stats.vercel.app/api?username=mehmetyz&count_private=true&show_icons=true&custom_title=Mehmet%20Yıldız&hide=issues&theme=radical" />
