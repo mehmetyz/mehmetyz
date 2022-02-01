@@ -1,5 +1,5 @@
 
-# ![header](https://raw.githubusercontent.com/mehmetyz/mehmetyz/main/banner.gif)
+# ![header](https://raw.githubusercontent.com/mehmetyz/mehmetyz/main/banner.png)
 
 <p align='center'>
 <a href="https://hackerrank.com/mehmetyz"><img height="30" src="https://raw.githubusercontent.com/mehmetyz/mehmetyz/main/icons/hackerrank.jpg"></a>&nbsp;&nbsp;
