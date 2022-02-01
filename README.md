@@ -1,60 +1,68 @@
 
-# ![header](https://raw.githubusercontent.com/mehmetyz/mehmetyz/main/banner.png)
 
+## <p align='center'>Mehmet Yıldız - Software Engineer<p/>
+
+####  Software Engineer at <a href="https://www.thundra.io">Thundra.io</a> <br/> Junior Computer Science Student at <a href="https://cs.hacettepe.edu.tr/">Hacettepe University</a>
+
+
+### <p align="center" style='color:#189AB4'>Links</p>
 <p align='center'>
-<a href="https://hackerrank.com/mehmetyz"><img height="30" src="https://raw.githubusercontent.com/mehmetyz/mehmetyz/main/icons/hackerrank.jpg"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/mehmetyz/"><img height="30" src="https://raw.githubusercontent.com/mehmetyz/mehmetyz/main/icons/linkedin.svg"></a> &nbsp;
-<a href="https://github.com/mehmetyz"><img height="30" src="https://raw.githubusercontent.com/mehmetyz/mehmetyz/main/icons/website.svg"></a>
-
+<a href="https://www.linkedin.com/in/mehmetyz">
+<img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.hackerrank.com/mehmetyz">
+<img alt="Hackerrank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+</a>
+<a href="https://leetcode.com/mehmetyz/">
+<img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+</a>
 </p>
-<div align="center">
-  
-## <b style='color:#189AB4'>Software Developer</b></h2>
-</div>
 
+### <p align="center" style='color:#189AB4'>Programming Languages</p>
+<p align="center">
+<img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+<img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+<img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+</p>
 
-Hey there 👋,
+### <p align="center" style='color:#189AB4'>Frontend Development</p>
+<p align="center">
+<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img alt="Material UI" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
+<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
 
-I am a long-life learner person. I have been improving myself on programming, problem-solving, and software development in limited opportunities since I was 13 years old. Now, I study at [Hacettepe University, Department of Computer Science](https://cs.hacettepe.edu.tr/) to be a computer scientist. In addition, I am working as a Software Engineer at [Thundra.io](https://www.thundra.io/). I love playing computer games, listening electro-music and biking.
+### <p align="center" style='color:#189AB4'>Backend Development</p>
+<p align="center">
+<img alt="Nodejs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img alt="Expressjs" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img alt="Spring-Boot" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+</p>
 
-<a href="https://github.com/mehmetyz/github-readme-stats">
-  <img height="156" align="center" src="https://github-readme-stats.vercel.app/api?username=mehmetyz&count_private=true&show_icons=true&custom_title=Mehmet%20Yıldız&hide=issues&theme=radical" />
-</a>
-<a href="https://github.com/mehmetyz/github-readme-stats">
-   <img height="156" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetyz&layout=compact&theme=radical&langs_count=6)" />
-</a>
+### <p align="center" style='color:#189AB4'>Database</p>
+<p align="center">
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img alt="AWS DynamoDB" src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white" />
+<img alt="AWS ElasticSearch" src="https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
+</p>
 
----
+### <p align="center" style='color:#189AB4'>Test Frameworks</p>
+<p align="center">
+<img alt="Junit5" src="https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
+<img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+<img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" />
+</p>
 
-### <b style='color:#189AB4'>Programming Languages</b> 
-<span>
-<img src="https://raw.githubusercontent.com/mehmetyz/mehmetyz/main/icons/csharp.svg"  height="48" style="margin-top: 8px; margin-left: 4px"/>
-<img src="https://raw.githubusercontent.com/mehmetyz/mehmetyz/main/icons/java.svg"  height="48" style="margin-top: 8px; margin-left: 4px"/>
-<img src="https://raw.githubusercontent.com/mehmetyz/mehmetyz/main/icons/python.svg"  height="48" style="margin-top: 8px; margin-left: 4px"/>
-<img src="https://raw.githubusercontent.com/mehmetyz/mehmetyz/main/icons/javascript.svg"  height="48" style="margin-top: 8px; margin-left: 4px"/>
-<img src="https://raw.githubusercontent.com/mehmetyz/mehmetyz/main/icons/cplusplus.svg"  height="48" style="margin-top: 8px; margin-left: 4px"/>
-</span>
-
-### <b style='color:#189AB4'>Development Tools</b>
-<span >
-<img src="https://raw.githubusercontent.com/mehmetyz/mehmetyz/main/icons/blazor.png"  height="48" style="margin-top: 8px; margin-left: 4px"/>
-<img src="https://raw.githubusercontent.com/mehmetyz/mehmetyz/main/icons/reactjs.svg"  height="48" style="margin-top: 8px; margin-left: 4px"/>
-<img src="https://raw.githubusercontent.com/mehmetyz/mehmetyz/main/icons/bootstrap.svg"  height="48" style="margin-top: 8px; margin-left: 4px"/>
-<img src="https://raw.githubusercontent.com/mehmetyz/mehmetyz/main/icons/jquery.svg"  height="48" style="margin-top: 8px; margin-left: 4px"/>
-<img src="https://raw.githubusercontent.com/mehmetyz/mehmetyz/main/icons/html.svg"  height="48" style="margin-top: 8px; margin-left: 4px"/>
-<img src="https://raw.githubusercontent.com/mehmetyz/mehmetyz/main/icons/css.svg"  height="48" style="margin-top: 8px; margin-left: 4px"/>
-<img src="https://raw.githubusercontent.com/mehmetyz/mehmetyz/main/icons/wpf.png"  height="48" style="margin-top: 8px; margin-left: 4px"/>
-<img src="https://raw.githubusercontent.com/mehmetyz/mehmetyz/main/icons/nodejs.svg"  height="48" style="margin-top: 8px; margin-left: 4px"/>
-<img src="https://raw.githubusercontent.com/mehmetyz/mehmetyz/main/icons/dot-net.png"  height="48" style="margin-top: 8px; margin-left: 4px"/>
-</span>
-
-### <b style='color:#189AB4'>General Tools</b>
-<span >
-<img src="https://raw.githubusercontent.com/mehmetyz/mehmetyz/main/icons/windows.svg"  height="48" style="margin-top: 8px; margin-left: 4px"/>
-<img src="https://raw.githubusercontent.com/mehmetyz/mehmetyz/main/icons/linux.svg"  height="48" style="margin-top: 8px; margin-left: 4px"/>
-<img src="https://raw.githubusercontent.com/mehmetyz/mehmetyz/main/icons/intellij.svg"  height="48" style="margin-top: 8px; margin-left: 4px"/>
-<img src="https://raw.githubusercontent.com/mehmetyz/mehmetyz/main/icons/visual-studio.svg"  height="48" style="margin-top: 8px; margin-left: 4px"/>
-<img src="https://raw.githubusercontent.com/mehmetyz/mehmetyz/main/icons/visual-studio-code.svg"  height="48" style="margin-top: 8px; margin-left: 4px"/>
-</span>
-
+### <p align="center" style='color:#189AB4'>Deployment Tools </p>
+<p align="center">
+<img alt="Github Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+<img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
