@@ -2,7 +2,7 @@
 
 ## <p align='center'>Mehmet Yıldız - Software Engineer<p/>
 
-####  Software Engineer at <a href="https://www.thundra.io">Thundra.io</a> <br/> Junior Computer Science Student at <a href="https://cs.hacettepe.edu.tr/">Hacettepe University</a>
+####  Software Engineer at <a href="https://www.thundra.io">Thundra.io</a> <br/> Senior Computer Science Student at <a href="https://cs.hacettepe.edu.tr/">Hacettepe University</a>
 
 
 ### <p align="center" style='color:#189AB4'>Links</p>
