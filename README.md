@@ -59,7 +59,7 @@
 <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" />
 </p>
 
-### <p align="center" style='color:#189AB4'>Deployment Tools </p>
+### <p align="center" style='color:#189AB4'>CI/CD Tools </p>
 <p align="center">
 <img alt="Github Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
