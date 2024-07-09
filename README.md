@@ -5,7 +5,7 @@
 ####  Software Engineer at <a href="https://www.catchpoint.com/">Catchpoint</a> <br/> Bachelor of Computer Science <a href="https://cs.hacettepe.edu.tr/">Hacettepe University</a>
 
 
-### <p align="center" style='color:#189AB4'>Links</p>
+### <p style='color:#189AB4'>Links</p>
 <p>
 <a href="https://www.linkedin.com/in/mehmetyz">
 <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
