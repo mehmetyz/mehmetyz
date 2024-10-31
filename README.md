@@ -26,6 +26,7 @@ I'm a full-stack software engineer with a strong interest in creating reliable a
 ### 💼 Professional Experience
 
 **[Catchpoint Systems](https://www.catchpoint.com/)** — *Software Engineer II*
+
 **Thundra Inc. (Acquired by Catchpoint)** — Software Engineer
 
 ### 🏆 Awards
