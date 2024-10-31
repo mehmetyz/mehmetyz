@@ -30,7 +30,8 @@ I'm a full-stack software engineer with a strong interest in creating reliable a
 **Thundra Inc. (Acquired by Catchpoint)** — Software Engineer
 
 ### 🏆 Awards
-**Autodesk Forge University Hackathon Winner** — Best Data Visualization Application 
+**Autodesk Forge University Hackathon Winner** — Best Data Visualization Application
+
 **OBSS Code Master 2023** — 2nd Place in University
 
 ### 🎓 Education
